@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UIControls</string>
+    <string name="Button01">ListView</string>
+    <string name="Button02">AlertDialog</string>
+    <string name="Button03">XMLMenu</string>
+    <string name="Button04">ActionMode</string>
+    <string name="Button05">Sign in</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Signin">Sign in</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Textsize">字体大小</string>
+    <string name="Textcolor">字体颜色</string>
+    <string name="Commenu">普通菜单项</string>
+    <string name="Big">大</string>
+    <string name="Middle">中</string>
+    <string name="Small">小</string>
+    <string name="Red">红</string>
+    <string name="Black">黑</string>
+    <string name="testtext">用于测试内容</string>
+</resources>
